@@ -9,15 +9,15 @@
 * *Установите  необходимые  библиотеки:*  `pip install -r requirements.txt` 
 ## Использование
 * *Создайте класс и вызовите функцию от вашего файла в формате json:*  `generator = BoxPlotGenerator(); generator.generate_boxplot("deviation.json")`
-* <img src="images/image_1.png" width="900" height="350">  
+* <img src="images/image_1.png" width="700" height="350">  
 * *Откройте папку plots и смотрите на график:* 
-* <img src="images/image_2.png" width="900" height="350">  
+* <img src="images/image_2.png" width="700" height="350">  
 ## intellij idea
 * *Запустил свое приложение в intellij idea*
-* <img src="images/image_3.png" width="900" height="350">  
+* <img src="images/image_3.png" width="700" height="350">  
 * *Показал использование юнит тестов*
-* <img src="images/image_4.png" width="900" height="350">  
+* <img src="images/image_4.png" width="700" height="350">  
 * *Профайлер используется для языка джава ( насколько я знаю). Так что чисто физически выполнить не смог* 
 
 * *Показал использование дебагера*
-* <img src="images/image_5.png" width="900" height="350">  
+* <img src="images/image_5.png" width="700" height="350">  
